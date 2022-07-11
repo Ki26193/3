@@ -1,4 +1,3 @@
-getgenv().FLYMODE = "SuperHero"
 local player = game.Players.LocalPlayer
 getgenv().FLYSPEED = 25
 function flymodelel()
